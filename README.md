@@ -1,6 +1,8 @@
 # Titanic_Ship
 Titanic Ship(OpenGL project)
 
+Project was done on December 2014
+
 The mini Project implemented here is a “Titanic Ship”. It is designed using OpenGL.
 This mini project is a simulation of ship where the ship sinks as it hits the ice berg on its way.
 One can view this mini project as a scene where ship, water, ice berg, stars and flash lighting
